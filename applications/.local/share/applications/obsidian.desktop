@@ -1,4 +1,4 @@
 [Desktop Entry]
 Name=Obsidian
-Exec=/opt/obsidian/Obsidian-1.9.10.AppImage %f
+Exec=/opt/obsidian/Obsidian.AppImage %f
 Type=Application

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Random Play PewDiePie
+Comment=Play a random PewDiePie video
+Exec=/home/wade/.config/scripts/random-play-yt_pewdiepie.sh
+Icon=pewdiepie
+Terminal=false
+Categories=AudioVideo;Player;
