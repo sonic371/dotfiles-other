@@ -2,7 +2,7 @@
 Type=Application
 Name=Random Play Penguinz0
 Comment=Play a random Penguinz0 video
-Exec=/home/wade/.config/scripts/random-play-yt_penguinz0.sh
-Icon=pewdiepie
+Exec=/home/wade/.config/scripts/random-play-yt.sh UCq6VFHwMzcMXbuKyG7SQYIg
+Icon=mpv
 Terminal=false
 Categories=AudioVideo;Player;
