@@ -23,12 +23,6 @@ polybar &
 # Input Device Configuration
 # ============================================
 
-# Touchpad settings
-~/.config/i3/Touchpad-setup.sh &
-
-# Wacom tablet settings
-~/.config/i3/wacom-setup.sh &
-
 # Keyboard layout options (commented out - enable if needed)
 # setxkbmap -option altwin:swap_ralt_rwin &
 

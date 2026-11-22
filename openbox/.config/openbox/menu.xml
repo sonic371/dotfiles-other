@@ -236,11 +236,6 @@
       <command>icewm</command>
     </action>
   </item>
-  <item label="i3 Window Manager">
-    <action name="Execute">
-      <command>i3</command>
-    </action>
-  </item>
   <item label="Polybar">
     <action name="Execute">
       <command>polybar example</command>
